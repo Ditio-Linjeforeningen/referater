@@ -11,4 +11,8 @@ Agenda:
 Generalforsamling: 
  - Når og hvor
   - Invitasjon må sendes ut minst 2 uker i forveien
-    -promotering  
+    - promotering 
+
+
+Logo: 
+- Hvordan skal den se ut?
